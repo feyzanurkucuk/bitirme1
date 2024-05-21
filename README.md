@@ -1,1 +1,2 @@
-# bitirme /nail-biting detection
+# bitirme /nail-biting detection using computer vision
+
